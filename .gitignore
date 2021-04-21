@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,emacs
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,jupyternotebooks,emacs
 
+/02-vector-semantics/assignment/pretrained
+/02-vector-semantics/assignment/wikipedia
+
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
