@@ -2,7 +2,11 @@
 
 Group 1: Klara Båstedt, Anna Page, Jacob Coles, Niclas Hertzberg
 
-### 1.
+### 1. SVD and vector space representations
+
+When using SVD, is it necessary to reduce the matrix, or is it possible to keep dimensionality, and how does this affect computing similarity metrics?
+
+We are aware that SVD can be used for some kind of filtering or finding the 'true signal' in data. If we are able to retain dimensionality, how will this modify the matrix, and will it change much?
 
 
 ### 2. Operations on similarities
